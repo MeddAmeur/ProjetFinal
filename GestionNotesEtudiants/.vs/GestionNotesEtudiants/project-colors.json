@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07e29b99-f16d-4ac7-a1f0-25290aa1193d": {
+      "ProjectGuid": "07e29b99-f16d-4ac7-a1f0-25290aa1193d",
+      "DisplayName": "GestionNotesEtudiants",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

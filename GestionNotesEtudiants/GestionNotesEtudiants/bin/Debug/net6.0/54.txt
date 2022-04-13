@@ -1,0 +1,5 @@
+Numéro d'étudiant: 54		Nom : sa		Prénom : sa
+
+Numéro du cours: 8		Code : 66		titre : as
+
+Note : 15

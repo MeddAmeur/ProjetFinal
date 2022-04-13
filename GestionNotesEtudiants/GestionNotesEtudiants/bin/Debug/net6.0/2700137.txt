@@ -1,0 +1,5 @@
+Numéro d'étudiant: 2700137		Nom : BENOSMANE		Prénom : RIAD
+
+Numéro du cours: 178263		Code : 3EFF		titre : aql
+
+Note : 35

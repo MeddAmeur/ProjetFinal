@@ -1,0 +1,5 @@
+Numéro d'étudiant: 55		Nom : ameur		Prénom : mohamed
+
+Numéro du cours: 5		Code : 98		titre : ajava
+
+Note : 89

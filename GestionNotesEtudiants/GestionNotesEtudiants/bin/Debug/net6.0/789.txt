@@ -1,0 +1,9 @@
+Numéro d'étudiant: 789		Nom : ameur		Prénom : mohamed
+
+ Courses --------------------------------
+
+Numéro du cours: 85		Code : 47		titre : java
+
+Note : 80
+
+ ------------------
